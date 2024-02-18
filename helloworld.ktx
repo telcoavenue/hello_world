@@ -1,0 +1,38 @@
+
+
+// This is a single line comment on Kotlin 
+
+/* This is 
+   A multiline comment 
+   in Kotlin */ 
+
+/* 
+Also This is A multiline comment in Kotlin 
+*/ 
+
+fun main() 
+
+/*
+ A Kotlin program is required to have a main function, which is the specific place in your code where the program starts running. 
+ The main function is the entry point, or starting point, of the program.
+ */
+ 
+{
+    
+    println("Hello, world!"); 
+    
+/* 
+
+The println(); statement. 
+
+It prints a new line. 
+
+The new line includes the contents packaged inside the (); part of the println(); statement. 
+
+In this case the new line contents will be a warm : Hello, world!
+
+*/ 
+    
+}
+
+
